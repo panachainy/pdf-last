@@ -1,0 +1,9 @@
+{
+  "name": "pdf-last",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/panachainy/pdf-last.git",
+  "author": "Panachai <panachai.ny@gmail.com>",
+  "license": "MIT",
+  "packageManager": "yarn@3.3.0"
+}
